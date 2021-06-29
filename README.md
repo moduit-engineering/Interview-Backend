@@ -36,13 +36,13 @@ Output Example:
 ## 2. Question Two
 
 Please create a controller that sends request to this endpoint: **/backend/question/two** \
-then please apply this filter to the response:
-1. Description that contains "Ergonomics" or Title that contains "Ergonomics".
-2. Tags that contains "Sports".
-3. Order by Id descending.
-4. Get the last 3 (three) items only.
+then please apply the following filter to the response:
+1. Description that contains "Ergonomics" or Title that contains "Ergonomics"
+2. Tags that contains "Sports"
+3. Order by Id descending
+4. Get the last 3 (three) items only
 
-Please output the result from the filter above to the response.
+Please put the resulting output from the above filter to the response.
 
 ## 3. Question Three
 
