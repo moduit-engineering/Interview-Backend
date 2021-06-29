@@ -9,8 +9,6 @@ You can use any 3rd party library that provided on **public** NuGet repository.
 2. Create new branch with prefix 'answer' followed by your name, example: answer/<your_name>
 3. After completing the tests, please push the code your branch and notify the examiner.
 
-&nbsp;
-
 You need to connect with our screening API on this URL:
 
 Base URL : https://screening.moduit.id/  
