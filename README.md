@@ -107,6 +107,6 @@ Output Example:
 ```
 
 You have 24 Hours to complete all the questions. \
-&nbsp;
+
 **Good Luck.**
 
