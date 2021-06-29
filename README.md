@@ -1,7 +1,22 @@
 # Moduit Backend - Coding Test
 
+## Instructions
+
+On this coding test, you need to create an **ASP.Net Core API** application solution to solve all the questions below.\
+You can use any 3rd party library that provided on **public** NuGet repository.
+
+1. Please clone this project on branch **source**
+2. Create new branch with prefix 'answer' followed by your name, example: answer/<your_name>
+3. After completing the tests, please push the code your branch and notify the examiner.
+
+&nbsp;
+
+You need to connect with our screening API on this URL:
+
 Base URL : https://screening.moduit.id/  
 Swagger  : https://screening.moduit.id/swagger  
+
+Note: _There's no authentication mechanism that you need to implement._
 
 ## 1. Question One
 
@@ -93,4 +108,6 @@ Output Example:
 ]
 ```
 
+You have 24 Hours to complete all the questions.
+**Good Luck.**
 
