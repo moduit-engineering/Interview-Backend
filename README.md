@@ -1,12 +1,25 @@
 # Moduit Backend - Coding Test
 
+## Instructions
+
+On this coding test, you need to create an **ASP.Net Core API** application solution to solve all the questions below.\
+You can use any 3rd party library that is provided on **public** NuGet repository.
+
+1. Please clone this project on branch **source**
+2. Create new branch with prefix 'answer' followed by your name, example: answer/<your_name>
+3. After completing the tests, please push the code to your branch and notify the examiner.
+
+You need to connect with our screening API on this URL:
+
 Base URL : https://screening.moduit.id/  
 Swagger  : https://screening.moduit.id/swagger  
 
+Note: _There's no authentication mechanism that you need to implement._
+
 ## 1. Question One
 
-Please create controller that send request to this endpoint: **/backend/question/one** \
-and please mirror **all** the response that you get from that endpoint.
+Please create a controller that sends request to this endpoint: **/backend/question/one** \
+and please mirror **all** responses that you get from that endpoint.
 
 Output Example:
 
@@ -22,18 +35,18 @@ Output Example:
 
 ## 2. Question Two
 
-Please create controller that send request to this endpoint: **/backend/question/two** \
-then please apply this filter to the response:
-1. Description that contains "Ergonomics" or Title that contains "Ergonomics".
-2. Tags that contains "Sports".
-3. Order by Id descending.
-4. Get the last 3 (three) item only.
+Please create a controller that sends request to this endpoint: **/backend/question/two** \
+then please apply the following filter to the response:
+1. Description that contains "Ergonomics" or Title that contains "Ergonomics"
+2. Tags that contains "Sports"
+3. Order by Id descending
+4. Get the last 3 (three) items only
 
-Please output the result from the filter above to the response.
+Please put the resulting output from the above filter to the response.
 
 ## 3. Question Three
 
-Please create controller that send request to this endpoint: **/backend/question/three** \
+Please create a controller that sends request to this endpoint: **/backend/question/three** \
 then please **flatten** property items from the response.
 
 Input Example:
@@ -93,4 +106,7 @@ Output Example:
 ]
 ```
 
+You have **24 hours** to complete all questions.
+
+**Good Luck!**
 
