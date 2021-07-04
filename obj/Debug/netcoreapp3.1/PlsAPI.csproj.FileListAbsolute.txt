@@ -1,0 +1,741 @@
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\PlsAPI.exe
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\PlsAPI.deps.json
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\PlsAPI.runtimeconfig.json
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\PlsAPI.runtimeconfig.dev.json
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\PlsAPI.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\PlsAPI.pdb
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\TrainingReactNet\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\TrainingReactNet\PlsAPI\obj\Debug\netcoreapp3.1\staticwebassets\PlsAPI.StaticWebAssets.Manifest.cache
+C:\TrainingReactNet\PlsAPI\obj\Debug\netcoreapp3.1\staticwebassets\PlsAPI.StaticWebAssets.xml
+C:\TrainingReactNet\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\TrainingReactNet\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.AssemblyInfoInputs.cache
+C:\TrainingReactNet\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.AssemblyInfo.cs
+C:\TrainingReactNet\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.RazorTargetAssemblyInfo.cache
+C:\TrainingReactNet\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.csproj.CopyComplete
+C:\TrainingReactNet\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.dll
+C:\TrainingReactNet\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.pdb
+C:\TrainingReactNet\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.csprojAssemblyReference.cache
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\PlsAPI.exe
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\PlsAPI.deps.json
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\PlsAPI.runtimeconfig.json
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\PlsAPI.runtimeconfig.dev.json
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\PlsAPI.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\PlsAPI.pdb
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\CCAI_Project\Application\PlsAPI\obj\Debug\netcoreapp3.1\staticwebassets\PlsAPI.StaticWebAssets.Manifest.cache
+C:\CCAI_Project\Application\PlsAPI\obj\Debug\netcoreapp3.1\staticwebassets\PlsAPI.StaticWebAssets.xml
+C:\CCAI_Project\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\CCAI_Project\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.AssemblyInfoInputs.cache
+C:\CCAI_Project\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.AssemblyInfo.cs
+C:\CCAI_Project\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.RazorTargetAssemblyInfo.cache
+C:\CCAI_Project\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.csproj.CopyComplete
+C:\CCAI_Project\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.dll
+C:\CCAI_Project\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.pdb
+C:\CCAI_Project\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.csprojAssemblyReference.cache
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\PlsAPI.exe
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\PlsAPI.deps.json
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\PlsAPI.runtimeconfig.json
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\PlsAPI.runtimeconfig.dev.json
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\PlsAPI.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\PlsAPI.pdb
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\CCAI_Project\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CCAI_Project\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.csprojAssemblyReference.cache
+E:\CCAI_Project\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.AssemblyInfoInputs.cache
+E:\CCAI_Project\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.AssemblyInfo.cs
+E:\CCAI_Project\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.csproj.CoreCompileInputs.cache
+E:\CCAI_Project\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\CCAI_Project\Application\PlsAPI\obj\Debug\netcoreapp3.1\staticwebassets\PlsAPI.StaticWebAssets.Manifest.cache
+E:\CCAI_Project\Application\PlsAPI\obj\Debug\netcoreapp3.1\staticwebassets\PlsAPI.StaticWebAssets.xml
+E:\CCAI_Project\Application\PlsAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\PlsAPI.styles.css
+E:\CCAI_Project\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.RazorTargetAssemblyInfo.cache
+E:\CCAI_Project\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.csproj.CopyComplete
+E:\CCAI_Project\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.dll
+E:\CCAI_Project\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.pdb
+E:\CCAI_Project\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.genruntimeconfig.cache
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\PlsAPI.exe
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\PlsAPI.deps.json
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\PlsAPI.runtimeconfig.json
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\PlsAPI.runtimeconfig.dev.json
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\PlsAPI.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\PlsAPI.pdb
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\CCAI\Application\PlsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CCAI\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.csproj.AssemblyReference.cache
+D:\CCAI\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.AssemblyInfoInputs.cache
+D:\CCAI\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.AssemblyInfo.cs
+D:\CCAI\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.csproj.CoreCompileInputs.cache
+D:\CCAI\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\CCAI\Application\PlsAPI\obj\Debug\netcoreapp3.1\staticwebassets\PlsAPI.StaticWebAssets.Manifest.cache
+D:\CCAI\Application\PlsAPI\obj\Debug\netcoreapp3.1\staticwebassets\PlsAPI.StaticWebAssets.xml
+D:\CCAI\Application\PlsAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\PlsAPI.styles.css
+D:\CCAI\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.RazorTargetAssemblyInfo.cache
+D:\CCAI\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.csproj.CopyComplete
+D:\CCAI\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.dll
+D:\CCAI\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.pdb
+D:\CCAI\Application\PlsAPI\obj\Debug\netcoreapp3.1\PlsAPI.genruntimeconfig.cache
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\PlsAPI.exe
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\PlsAPI.deps.json
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\PlsAPI.runtimeconfig.json
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\PlsAPI.runtimeconfig.dev.json
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\PlsAPI.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\PlsAPI.pdb
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Test Technical\Interview-Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Test Technical\Interview-Backend\obj\Debug\netcoreapp3.1\PlsAPI.csproj.AssemblyReference.cache
+D:\Test Technical\Interview-Backend\obj\Debug\netcoreapp3.1\PlsAPI.AssemblyInfoInputs.cache
+D:\Test Technical\Interview-Backend\obj\Debug\netcoreapp3.1\PlsAPI.AssemblyInfo.cs
+D:\Test Technical\Interview-Backend\obj\Debug\netcoreapp3.1\PlsAPI.csproj.CoreCompileInputs.cache
+D:\Test Technical\Interview-Backend\obj\Debug\netcoreapp3.1\PlsAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Test Technical\Interview-Backend\obj\Debug\netcoreapp3.1\staticwebassets\PlsAPI.StaticWebAssets.Manifest.cache
+D:\Test Technical\Interview-Backend\obj\Debug\netcoreapp3.1\staticwebassets\PlsAPI.StaticWebAssets.xml
+D:\Test Technical\Interview-Backend\obj\Debug\netcoreapp3.1\scopedcss\bundle\PlsAPI.styles.css
+D:\Test Technical\Interview-Backend\obj\Debug\netcoreapp3.1\PlsAPI.RazorTargetAssemblyInfo.cache
+D:\Test Technical\Interview-Backend\obj\Debug\netcoreapp3.1\PlsAPI.csproj.CopyComplete
+D:\Test Technical\Interview-Backend\obj\Debug\netcoreapp3.1\PlsAPI.dll
+D:\Test Technical\Interview-Backend\obj\Debug\netcoreapp3.1\PlsAPI.pdb
+D:\Test Technical\Interview-Backend\obj\Debug\netcoreapp3.1\PlsAPI.genruntimeconfig.cache
