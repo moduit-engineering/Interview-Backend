@@ -5,8 +5,9 @@
 On this coding test, you need to create an **ASP.Net Core API** application solution to solve all the questions below.\
 You can use any 3rd party library that is provided on **public** NuGet repository.
 
-1. Please fork this project on branch **source**
-2. After completing the tests, please push the code to your repository, notify and send your repository url to the examiner.
+1. Please fork this project.
+2. You can use starter project on branch **source**
+3. After completing the tests, please push the code to your repository, notify and send your repository url to the examiner.
 
 You need to connect with our screening API on this URL:
 
